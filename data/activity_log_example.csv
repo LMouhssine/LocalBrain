@@ -1,0 +1,12 @@
+timestamp,task_name,task_category,duration_min,energy_level,outcome
+2025-01-13 09:00:00,Plan day,planning,15,4,completed
+2025-01-13 09:20:00,Implement feature X,coding,90,4,completed
+2025-01-13 11:00:00,Reply to emails,email,25,3,completed
+2025-01-13 11:35:00,Code review,coding,45,3,completed
+2025-01-13 13:00:00,Lunch break,break,35,3,completed
+2025-01-13 13:45:00,Write design notes,writing,50,3,completed
+2025-01-13 15:00:00,Investigate bug,coding,30,2,interrupted
+2025-01-13 15:40:00,Small admin tasks,admin,20,2,completed
+2025-01-13 16:10:00,Meeting,meetings,40,2,completed
+2025-01-13 17:00:00,Wrap up & plan tomorrow,planning,20,2,completed
+

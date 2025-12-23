@@ -1,0 +1,16 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# Bind locally only (no LAN access)
+address = "127.0.0.1"
+port = 8501
+
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#111827"
+font = "sans serif"
+
