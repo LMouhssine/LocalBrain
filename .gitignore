@@ -1,11 +1,13 @@
 .venv/
 __pycache__/
 *.pyc
+*.log
+.env
+.env.*
 artifacts/*.pt
 artifacts/*.pth
 artifacts/*.json
-data/activity_log.csv
-data/recommendation_log.csv
+data/*.csv
+!data/activity_log_example.csv
 .streamlit/credentials.toml
 .streamlit/secrets.toml
-
